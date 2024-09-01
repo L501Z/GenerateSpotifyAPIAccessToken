@@ -1,6 +1,6 @@
 const start = async function(){
-    const clientId = '32470a542af446d28328465d23ef3521';
-    const clientSecret = 'fd390070de78473fae3b8ec55e738990';
+    const clientId = 'yourid';
+    const clientSecret = 'yoursecret';
     
     const getToken = async () => {
       try {
